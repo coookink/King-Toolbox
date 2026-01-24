@@ -13,6 +13,7 @@
 | 库名称 | 核心功能 | 来源 | 快速调用 |
 | :--- | :--- | :--- | :--- |
 | **[Kingfisher](./modules/Kingfisher)** | iOS网络图片加载与缓存 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 将 `Sources` 文件夹拖入 Xcode 项目 |
+| **[AI系统提示词合集](./modules/system-prompts)** | 包含 Cursor/Devin/v0 等顶级工具的源Prompt | [x1xhlol/system-prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 仅供参考学习 |
 
 ---
 ## ⚡️ 维护指南
