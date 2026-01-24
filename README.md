@@ -10,7 +10,9 @@
 | **[SwiftUI Hex Color](./snippets/ios/ColorExtension.swift)** | 让App支持 #RRGGBB 颜色代码 | 复制到项目 `Extensions` 文件夹 |
 
 ## 📦 3. Modules (第三方库)
-*(暂无内容，等待后续添加 submodule)*
+| 库名称 | 核心功能 | 来源 | 快速调用 |
+| :--- | :--- | :--- | :--- |
+| **[Kingfisher](./modules/Kingfisher)** | iOS网络图片加载与缓存 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 将 `Sources` 文件夹拖入 Xcode 项目 |
 
 ---
 ## ⚡️ 维护指南

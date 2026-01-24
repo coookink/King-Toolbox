@@ -1,0 +1,3 @@
+[submodule "modules/Kingfisher"]
+	path = modules/Kingfisher
+	url = https://github.com/onevcat/Kingfisher.git
