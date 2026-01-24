@@ -4,3 +4,6 @@
 [submodule "modules/system-prompts"]
 	path = modules/system-prompts
 	url = https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+[submodule "modules/ui-ux-pro-max"]
+	path = modules/ui-ux-pro-max
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
