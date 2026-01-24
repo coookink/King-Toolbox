@@ -7,7 +7,7 @@
 | **[结构化提示词](./prompts/structured_prompt.md)** | 让AI像程序一样稳定输出 | 麦克斯坦/LangGPT | 复制文件全文 -> 发送给AI |
 
 ## 🧩 2. Code Snippets (代码片段)
-*(暂无内容，等待后续添加 iOS/Web 代码)*
+| **[SwiftUI Hex Color](./snippets/ios/ColorExtension.swift)** | 让App支持 #RRGGBB 颜色代码 | 复制到项目 `Extensions` 文件夹 |
 
 ## 📦 3. Modules (第三方库)
 *(暂无内容，等待后续添加 submodule)*
