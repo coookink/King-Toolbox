@@ -112,9 +112,3 @@ git submodule update --remote modules/ui-ux-pro-max
 
 * **Q: Trae 不理会设计规范?**
 * A: 确认是否在项目根目录执行了 `uipro init`，并重启 Trae。
-
-
-
-```
-
-```
