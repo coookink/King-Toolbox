@@ -7,3 +7,6 @@
 [submodule "modules/ui-ux-pro-max"]
 	path = modules/ui-ux-pro-max
 	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+[submodule "modules/new-api"]
+	path = modules/new-api
+	url = https://github.com/QuantumNous/new-api
