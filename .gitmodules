@@ -10,3 +10,6 @@
 [submodule "modules/new-api"]
 	path = modules/new-api
 	url = https://github.com/QuantumNous/new-api
+[submodule "modules/opencode"]
+	path = modules/opencode
+	url = https://github.com/anomalyco/opencode
