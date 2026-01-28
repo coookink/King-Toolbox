@@ -16,6 +16,7 @@
 | **[AI系统提示词合集](./prompts/system_prompts_guide.md)** | 包含 Cursor/Devin/v0 等顶级工具的源 Prompt 解析 | [查看指南](./prompts/system_prompts_guide.md) | 查阅学习 |
 | **[UI/UX设计智能库](./prompts/ui_ux_skill_guide.md)** | AI的设计大脑(含SwiftUI支持) | [查看指南](./prompts/ui_ux_skill_guide.md) | `npm i -g uipro-cli` |
 | **[New API 网关](./prompts/new_api_guide.md)** | 统一AI模型接口/计费管理 | [查看指南](./prompts/new_api_guide.md) | Docker部署 |
+| **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | [查看指南](./prompts/superpowers_guide.md) | 需配置 PATH |
 ---
 ## ⚡️ 维护指南
 1. **获取资源**: `git pull`
