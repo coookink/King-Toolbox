@@ -13,3 +13,6 @@
 [submodule "modules/opencode"]
 	path = modules/opencode
 	url = https://github.com/anomalyco/opencode
+[submodule "modules/awesome-claude-skills"]
+	path = modules/awesome-claude-skills
+	url = https://github.com/ComposioHQ/awesome-claude-skills
