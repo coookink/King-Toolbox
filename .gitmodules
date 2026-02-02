@@ -22,3 +22,6 @@
 [submodule "modules/agent-skills"]
 	path = modules/agent-skills
 	url = https://github.com/vercel-labs/agent-skills
+[submodule "modules/strapi"]
+	path = modules/strapi
+	url = https://github.com/strapi/strapi
