@@ -16,3 +16,6 @@
 [submodule "modules/awesome-claude-skills"]
 	path = modules/awesome-claude-skills
 	url = https://github.com/ComposioHQ/awesome-claude-skills
+[submodule "modules/cc-switch"]
+	path = modules/cc-switch
+	url = https://github.com/farion1231/cc-switch

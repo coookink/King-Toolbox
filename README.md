@@ -19,6 +19,7 @@
 | **[New API 网关](./prompts/new_api_guide.md)** | 统一AI模型接口/计费管理 | [查看指南](./prompts/new_api_guide.md) | Docker部署 |
 | **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | [查看指南](./prompts/superpowers_guide.md) | 需配置 PATH |
 | **[OpenCode 编程特工](./prompts/opencode_guide.md)** | TUI优先的开源Devin替代品 | [查看指南](./prompts/opencode_guide.md) | 命令行/GitHub App |
+| **[CC Switch 助手](./prompts/cc_switch_guide.md)** | Claude/Gemini CLI配置切换与管理 | [查看指南](./prompts/cc_switch_guide.md) | 安装 App 使用 |
 ---
 ## ⚡️ 维护指南
 1. **获取资源**: `git pull`
