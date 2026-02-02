@@ -28,3 +28,6 @@
 [submodule "modules/astro"]
 	path = modules/astro
 	url = https://github.com/withastro/astro
+[submodule "modules/vercel-skills"]
+	path = modules/vercel-skills
+	url = https://github.com/vercel-labs/skills
