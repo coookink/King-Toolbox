@@ -6,6 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | **[提示词提升法](./prompts/prompt_training_method.md)** | 麦克斯坦的核心训练逻辑 | [小红书](https://www.xiaohongshu.com/discovery/item/695d24f0000000001a030b3f) | 阅读并执行 |
 | **[Claude 技能积木库](./prompts/claude_skills_guide.md)** | 含150+ Agent工作流(SKILL.md) | [查看指南](./prompts/claude_skills_guide.md) | 复制Prompt或挂载 |
+| **[Vercel 官方技能库](./prompts/agent_skills_guide.md)** | React/Next.js 最佳实践与规范 | [查看指南](./prompts/agent_skills_guide.md) | 复制规范喂给 AI |
 
 ## 🧩 2. Code Snippets (代码片段)
 | **[SwiftUI Hex Color](./snippets/ios/ColorExtension.swift)** | 让App支持 #RRGGBB 颜色代码 | 复制到项目 `Extensions` 文件夹 |
