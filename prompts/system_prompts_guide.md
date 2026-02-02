@@ -1,33 +1,43 @@
-# 🕵️‍♂️ AI 系统提示词合集指南 (System Prompts Collection)
+# 🕵️‍♂️ AI 系统提示词合集指南
 
-## 1. 项目介绍
-这是一个由开源社区维护的“逆向工程”项目，收集了目前市面上顶级 AI 工具幕后的 **System Prompts (系统提示词)** 和 **Model Configurations (模型配置)**。
+## 1. 这是什么？
+这是一个**AI 界的“解剖实验室”**。
+这里收集了 Cursor, Devin, v0 等顶级 AI 工具的**灵魂** —— 也就是它们的 **System Prompt (系统提示词)**。
+知道了这些，你就知道了它们为什么比你的 ChatGPT 聪明。
 
-它揭示了像 Cursor、Devin、v0 这些强大的工具，是如何通过一段精心设计的“指令”，被编程成现在的样子的。
+## 2. 为什么你要看这个？
+*   **偷师学艺**: 看看世界顶级的 Prompt 工程师是如何写指令的。
+*   **复制能力**: 把 Cursor 的提示词复制给 ChatGPT，瞬间让你的 ChatGPT 拥有类似 Cursor 的编程思维。
+*   **理解原理**: 明白 AI 工具不是魔法，而是精密的指令工程。
 
-**包含的工具列表：**
-- **代码编辑器类**: Cursor, VSCode Copilot, Windsurf, Trae
-- **全自动特工**: Devin, Manus, Replit Agent
-- **UI 生成**: v0, Lovable
-- **其他**: Midjourney, Perplexity 等
+## 3. 怎么用？(小白教程)
 
-## 2. 使用方法
-这个项目不是用来“运行”的软件，而是一个**参考阅览室**。
+### 场景：我想让 ChatGPT 像 Cursor 一样懂代码
 
-### 场景 A：学习顶级 Prompt 写法
-1.  进入 `modules/system-prompts` 文件夹。
-2.  找到你感兴趣的工具（如 `Cursor` 文件夹）。
-3.  打开其中的 `.md` 或 `.txt` 文件（通常带有 `system_prompt` 字样）。
-4.  **学习重点**：
-    - 它们如何定义 `Role`（角色）。
-    - 它们如何设计 `Constraints`（边界约束）。
-    - 它们如何描述 `Tools`（工具调用逻辑）。
+1.  **找文件**:
+    *   进入本项目的 `modules/system-prompts`。
+    *   找到 `cursor` 文件夹。
+    *   打开 `rules_for_ai.md` (或者类似名字)。
 
-### 场景 B：优化自己的 AI
-如果你想让你自己的 GPT-4 或 Claude 表现得像 Cursor 一样专业，可以：
-1.  复制 `Cursor` 的部分核心提示词。
-2.  粘贴到你的 ChatGPT **"Custom Instructions" (自定义指令)** 或 API 的 System 字段中。
+2.  **阅读理解**:
+    *   不用全看懂，重点看它怎么定义 **Rules**。
+    *   *例如*: "Always write modular code", "Prioritize readability".
 
-## 3. 资源地址
-- **本地路径**: [点击跳转到 submodule 文件夹](../modules/system-prompts)
-- **GitHub 原址**: [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+3.  **抄作业**:
+    *   复制其中你觉得好的几段。
+    *   打开 ChatGPT -> 设置 -> **Custom Instructions (自定义指令)**。
+    *   粘贴到 "High-level instructions" 框里。
+
+### 场景：我想看 Devin (AI 程序员) 是怎么思考的
+
+1.  找到 `devin` 文件夹。
+2.  你会发现它用了很多 `Step-by-Step` 的思维链 (Chain of Thought)。
+3.  模仿它的写法，去写你自己的 Prompt。
+
+## 4. 常见误区
+*   **误区**: "我把这文件运行起来就能得到一个免费 Cursor？"
+*   **真相**: 并没有。这些只是**提示词** (灵魂)，你还需要壳子 (软件) 和大脑 (API)。但拥有灵魂已经能解决 80% 的问题了。
+
+## 5. 资源链接
+*   **GitHub 原址**: [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+*   **本地查看**: [点击这里](../modules/system-prompts)
