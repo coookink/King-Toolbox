@@ -25,3 +25,6 @@
 [submodule "modules/strapi"]
 	path = modules/strapi
 	url = https://github.com/strapi/strapi
+[submodule "modules/astro"]
+	path = modules/astro
+	url = https://github.com/withastro/astro
