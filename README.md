@@ -8,6 +8,7 @@
 | **[Claude 技能积木库](./prompts/claude_skills_guide.md)** | 含150+ Agent工作流(SKILL.md) | [modules/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 复制Prompt或挂载 |
 | **[Vercel 官方技能库](./prompts/agent_skills_guide.md)** | React/Next.js 最佳实践与规范 | [modules/agent-skills](https://github.com/vercel-labs/agent-skills) | 复制规范喂给 AI |
 | **[Vercel 搜索技能工具](./prompts/vercel_skills_guide.md)** | 自动发现并安装 Agent 技能 | [modules/vercel-skills](https://github.com/vercel-labs/skills) | `npx skills add` |
+| **[Obsidian 笔记技能](./prompts/obsidian_skills_guide.md)** | 让AI理解Obsidian格式 | [modules/obsidian-skills](https://github.com/kepano/obsidian-skills) | 复制到 `.claude` 目录 |
 
 ## 🧩 2. Code Snippets (代码片段)
 | **[SwiftUI Hex Color](./snippets/ios/ColorExtension.swift)** | 让App支持 #RRGGBB 颜色代码 | 复制到项目 `Extensions` 文件夹 |

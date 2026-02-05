@@ -34,3 +34,6 @@
 [submodule "modules/minio"]
 	path = modules/minio
 	url = https://github.com/minio/minio
+[submodule "modules/obsidian-skills"]
+	path = modules/obsidian-skills
+	url = https://github.com/kepano/obsidian-skills
