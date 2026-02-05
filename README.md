@@ -18,6 +18,7 @@
 | **[Kingfisher](./prompts/kingfisher_guide.md)** | iOS网络图片加载与缓存 | [modules/Kingfisher](https://github.com/onevcat/Kingfisher) | 将 `Sources` 文件夹拖入 Xcode 项目 |
 | **[Astro Web Framework](./prompts/astro_guide.md)** | 极致速度的内容网站框架 | [modules/astro](https://github.com/withastro/astro) | `npm create astro@latest` |
 | **[Strapi Headless CMS](./prompts/strapi_guide.md)** | 开源无头CMS，一键生成API | [modules/strapi](https://github.com/strapi/strapi) | `npx create-strapi@latest` |
+| **[MinIO 对象存储](./prompts/minio_guide.md)** | 高性能S3兼容对象存储 | [modules/minio](https://github.com/minio/minio) | Docker部署或源码编译 |
 | **[AI系统提示词合集](./prompts/system_prompts_guide.md)** | Cursor/Devin/v0 等顶级工具的源 Prompt | [modules/system-prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 查阅学习 |
 | **[UI/UX设计智能库](./prompts/ui_ux_skill_guide.md)** | AI的设计大脑(含SwiftUI支持) | [modules/ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `npm i -g uipro-cli` |
 | **[New API 网关](./prompts/new_api_guide.md)** | 统一AI模型接口/计费管理 | [modules/new-api](https://github.com/QuantumNous/new-api) | Docker部署 |

@@ -31,3 +31,6 @@
 [submodule "modules/vercel-skills"]
 	path = modules/vercel-skills
 	url = https://github.com/vercel-labs/skills
+[submodule "modules/minio"]
+	path = modules/minio
+	url = https://github.com/minio/minio
