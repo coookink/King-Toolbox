@@ -26,6 +26,7 @@
 | **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | modules/superpowers | 需配置 PATH |
 | **[OpenCode 编程特工](./prompts/opencode_guide.md)** | TUI优先的开源Devin替代品 | [modules/opencode](https://github.com/anomalyco/opencode) | 命令行/GitHub App |
 | **[CC Switch 助手](./prompts/cc_switch_guide.md)** | Claude/Gemini CLI配置切换与管理 | [modules/cc-switch](https://github.com/farion1231/cc-switch) | 安装 App 使用 |
+| **[OpenClaw AI 助理](./prompts/openclaw_guide.md)** | 多平台个人AI助理系统 | [modules/openclaw](https://github.com/openclaw/openclaw) | `npm i -g openclaw` |
 ---
 ## ⚡️ 维护指南
 1. **获取资源**: `git pull`
