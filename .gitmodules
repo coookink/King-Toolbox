@@ -40,3 +40,9 @@
 [submodule "modules/openclaw"]
 	path = modules/openclaw
 	url = https://github.com/openclaw/openclaw
+[submodule "modules/anthropics-skills"]
+	path = modules/anthropics-skills
+	url = https://github.com/anthropics/skills.git
+[submodule "modules/anthropics_skills"]
+	path = modules/anthropics_skills
+	url = https://github.com/anthropics/skills.git
