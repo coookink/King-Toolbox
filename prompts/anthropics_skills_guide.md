@@ -32,4 +32,4 @@ description: A clear description of what this skill does and when to use it
 
 ## 3. 地址 (Address)
 - **GitHub**: https://github.com/anthropics/skills
-- **Local Module**: `modules/anthropics_skills`
+- **Local Module**: `modules/anthropics-skills`
