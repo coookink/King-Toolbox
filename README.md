@@ -23,6 +23,7 @@
 | **[MinIO 对象存储](./prompts/minio_guide.md)** | 高性能S3兼容对象存储 | [modules/minio](https://github.com/minio/minio) | Docker部署或源码编译 |
 | **[AI系统提示词合集](./prompts/system_prompts_guide.md)** | Cursor/Devin/v0 等顶级工具的源 Prompt | [modules/system-prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 查阅学习 |
 | **[UI/UX设计智能库](./prompts/ui_ux_skill_guide.md)** | AI的设计大脑(含SwiftUI支持) | [modules/ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `npm i -g uipro-cli` |
+| **[Shadcn/ui 组件库](./prompts/shadcn_ui_guide.md)** | 美观、可访问、复制即用的组件库 | [modules/shadcn-ui](https://github.com/shadcn-ui/ui) | `npx shadcn@latest init` |
 | **[New API 网关](./prompts/new_api_guide.md)** | 统一AI模型接口/计费管理 | [modules/new-api](https://github.com/QuantumNous/new-api) | Docker部署 |
 | **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | modules/superpowers | 需配置 PATH |
 | **[OpenCode 编程特工](./prompts/opencode_guide.md)** | TUI优先的开源Devin替代品 | [modules/opencode](https://github.com/anomalyco/opencode) | 命令行/GitHub App |
