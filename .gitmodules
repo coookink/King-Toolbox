@@ -46,3 +46,6 @@
 [submodule "modules/shadcn-ui"]
 	path = modules/shadcn-ui
 	url = https://github.com/shadcn-ui/ui
+[submodule "modules/Easydict"]
+	path = modules/Easydict
+	url = https://github.com/tisfeng/Easydict.git

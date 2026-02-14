@@ -18,6 +18,7 @@
 | 库名称 | 核心功能 | 来源 | 快速调用 |
 | :--- | :--- | :--- | :--- |
 | **[Kingfisher](./prompts/kingfisher_guide.md)** | iOS网络图片加载与缓存 | [modules/Kingfisher](https://github.com/onevcat/Kingfisher) | 将 `Sources` 文件夹拖入 Xcode 项目 |
+| **[Easydict 词典翻译](./prompts/easydict_guide.md)** | macOS词典查词/翻译/OCR截图翻译 | [modules/Easydict](https://github.com/tisfeng/Easydict) | `brew install --cask easydict` |
 | **[Astro Web Framework](./prompts/astro_guide.md)** | 极致速度的内容网站框架 | [modules/astro](https://github.com/withastro/astro) | `npm create astro@latest` |
 | **[Strapi Headless CMS](./prompts/strapi_guide.md)** | 开源无头CMS，一键生成API | [modules/strapi](https://github.com/strapi/strapi) | `npx create-strapi@latest` |
 | **[MinIO 对象存储](./prompts/minio_guide.md)** | 高性能S3兼容对象存储 | [modules/minio](https://github.com/minio/minio) | Docker部署或源码编译 |
