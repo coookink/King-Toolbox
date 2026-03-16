@@ -6,6 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | **[提示词提升法](./prompts/prompt_training_method.md)** | 麦克斯坦的核心训练逻辑 | [小红书](https://www.xiaohongshu.com/discovery/item/695d24f0000000001a030b3f) | 阅读并执行 |
 | **[AI系统提示词合集](./prompts/system_prompts_guide.md)** | Cursor/Devin/v0 等顶级工具的源 Prompt | [modules/system-prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 查阅学习 |
+| **[英语进阶技巧](./prompts/english_level_up_guide.md)** | 高效进阶英语的完整方法论 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 阅读学习 |
 
 ## 🧩 2. Code Snippets (代码片段)
 | **[SwiftUI Hex Color](./snippets/ios/ColorExtension.swift)** | 让App支持 #RRGGBB 颜色代码 | 复制到项目 `Extensions` 文件夹 |
@@ -46,6 +47,7 @@
 | **[New API 网关](./prompts/new_api_guide.md)** | 统一AI模型接口/计费管理 | [modules/new-api](https://github.com/QuantumNous/new-api) | Docker部署 |
 | **[OpenCode 编程特工](./prompts/opencode_guide.md)** | TUI优先的开源Devin替代品 | [modules/opencode](https://github.com/anomalyco/opencode) | 命令行/GitHub App |
 | **[OpenClaw AI 助理](./prompts/openclaw_guide.md)** | 多平台个人AI助理系统 | [modules/openclaw](https://github.com/openclaw/openclaw) | `npm i -g openclaw` |
+| **[Plasmic 可视化构建器](./prompts/plasmic_guide.md)** | 开源可视化页面构建工具 | [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | `npm install @plasmicapp/loader-nextjs` |
 
 ---
 ## ⚡️ 维护指南
