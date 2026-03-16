@@ -17,6 +17,7 @@
 ## 📦 3. Modules (第三方库)
 | 库名称 | 核心功能 | 来源 | 快速调用 |
 | :--- | :--- | :--- | :--- |
+| **[Figma MCP Server](./prompts/figma_mcp_guide.md)** | 在IDE中直接获取Figma设计上下文生成代码 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | 按指南配置MCP |
 | **[Kingfisher](./prompts/kingfisher_guide.md)** | iOS网络图片加载与缓存 | [modules/Kingfisher](https://github.com/onevcat/Kingfisher) | 将 `Sources` 文件夹拖入 Xcode 项目 |
 | **[Easydict 词典翻译](./prompts/easydict_guide.md)** | macOS词典查词/翻译/OCR截图翻译 | [modules/Easydict](https://github.com/tisfeng/Easydict) | `brew install --cask easydict` |
 | **[Astro Web Framework](./prompts/astro_guide.md)** | 极致速度的内容网站框架 | [modules/astro](https://github.com/withastro/astro) | `npm create astro@latest` |
