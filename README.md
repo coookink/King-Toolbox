@@ -17,6 +17,7 @@
 | :--- | :--- | :--- | :--- |
 | **[Easydict 词典翻译](./prompts/easydict_guide.md)** | macOS词典查词/翻译/OCR截图翻译 | [modules/Easydict](https://github.com/tisfeng/Easydict) | `brew install --cask easydict` |
 | **[CC Switch 助手](./prompts/cc_switch_guide.md)** | Claude/Gemini CLI配置切换与管理 | [modules/cc-switch](https://github.com/farion1231/cc-switch) | 安装 App 使用 |
+| **[Framelink Figma MCP](./prompts/figma_context_mcp_guide.md)** | Cursor专用的Figma设计转代码MCP | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | `npx figma-developer-mcp` |
 
 ## 🎯 4. Skills (技能)
 > AI Agent 技能、工作流、规范
