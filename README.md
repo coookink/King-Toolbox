@@ -24,15 +24,16 @@
 ## 🎯 4. Skills (技能)
 > AI Agent 技能、工作流、规范
 
-| 技能名称 | 核心功能 | 来源 | 快速调用 |
-| :--- | :--- | :--- | :--- |
-| **[Claude 技能积木库](./prompts/claude_skills_guide.md)** | 含150+ Agent工作流(SKILL.md) | [modules/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 复制Prompt或挂载 |
-| **[Vercel 官方技能库](./prompts/agent_skills_guide.md)** | React/Next.js 最佳实践与规范 | [modules/agent-skills](https://github.com/vercel-labs/agent-skills) | 复制规范喂给 AI |
-| **[Vercel 搜索技能工具](./prompts/vercel_skills_guide.md)** | 自动发现并安装 Agent 技能 | [modules/vercel-skills](https://github.com/vercel-labs/skills) | `npx skills add` |
-| **[Obsidian 笔记技能](./prompts/obsidian_skills_guide.md)** | 让AI理解Obsidian格式 | [modules/obsidian-skills](https://github.com/kepano/obsidian-skills) | 复制到 `.claude` 目录 |
-| **[Anthropic 官方技能库](./prompts/anthropics_skills_guide.md)** | Claude 官方 Agent 技能与最佳实践 | [modules/anthropics-skills](https://github.com/anthropics/skills) | 复制 Prompt 或挂载 |
-| **[UI/UX设计智能库](./prompts/ui_ux_skill_guide.md)** | AI的设计大脑(含SwiftUI支持) | [modules/ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `npm i -g uipro-cli` |
-| **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | modules/superpowers | 需配置 PATH |
+| 技能名称 | 核心功能 | 来源 | 快速调用 | 评级 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Claude 技能积木库](./prompts/claude_skills_guide.md)** | 含150+ Agent工作流(SKILL.md) | [modules/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 复制Prompt或挂载 | ⭐⭐⭐⭐⭐ |
+| **[Vercel 官方技能库](./prompts/agent_skills_guide.md)** | React/Next.js 最佳实践与规范 | [modules/agent-skills](https://github.com/vercel-labs/agent-skills) | 复制规范喂给 AI | ⭐⭐⭐⭐⭐ |
+| **[Vercel 搜索技能工具](./prompts/vercel_skills_guide.md)** | 自动发现并安装 Agent 技能 | [modules/vercel-skills](https://github.com/vercel-labs/skills) | `npx skills add` | ⭐⭐⭐⭐ |
+| **[Obsidian 笔记技能](./prompts/obsidian_skills_guide.md)** | 让AI理解Obsidian格式 | [modules/obsidian-skills](https://github.com/kepano/obsidian-skills) | 复制到 `.claude` 目录 | ⭐⭐⭐⭐ |
+| **[Anthropic 官方技能库](./prompts/anthropics_skills_guide.md)** | Claude 官方 Agent 技能与最佳实践 | [modules/anthropics-skills](https://github.com/anthropics/skills) | 复制 Prompt 或挂载 | ⭐⭐⭐⭐⭐ |
+| **[UI/UX设计智能库](./prompts/ui_ux_skill_guide.md)** | AI的设计大脑(含SwiftUI支持) | [modules/ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `npm i -g uipro-cli` | ⭐⭐⭐⭐⭐ |
+| **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | modules/superpowers | 需配置 PATH | ⭐⭐⭐⭐ |
+| **[21st.dev Magic MCP](./prompts/21st_magic_mcp_guide.md)** | Vibe Design神器，IDE内生成UI组件 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | `npx @21st-dev/cli@latest install cursor` | ⭐⭐⭐⭐⭐ |
 
 ## 📦 5. Modules (第三方库)
 > 开发框架、组件库、SDK
