@@ -20,6 +20,7 @@
 | **[CC Switch 助手](./prompts/cc_switch_guide.md)** | Claude/Gemini CLI配置切换与管理 | [modules/cc-switch](https://github.com/farion1231/cc-switch) | 安装 App 使用 | ⭐⭐⭐⭐ |
 | **[Framelink Figma MCP](./prompts/figma_context_mcp_guide.md)** | Cursor专用的Figma设计转代码MCP | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | `npx figma-developer-mcp` | ⭐⭐⭐⭐⭐ |
 | **[Enjoy 英语](./prompts/enjoy_english_guide.md)** | AI驱动的英语学习工具（YouTube/Netflix） | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 访问 enjoy.bot | ⭐⭐⭐⭐ |
+| **[OpenClash 代理](./prompts/openclash_guide.md)** | OpenWrt路由器Clash代理客户端 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | 下载ipk安装 | ⭐⭐⭐⭐⭐ |
 
 ## 🎯 4. Skills (技能)
 > AI Agent 技能、工作流、规范
