@@ -52,6 +52,7 @@
 | **[OpenClaw AI 助理](./prompts/openclaw_guide.md)** | 多平台个人AI助理系统 | [modules/openclaw](https://github.com/openclaw/openclaw) | `npm i -g openclaw` | ⭐⭐⭐⭐ |
 | **[Plasmic 可视化构建器](./prompts/plasmic_guide.md)** | 开源可视化页面构建工具 | [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | `npm install @plasmicapp/loader-nextjs` | ⭐⭐⭐⭐ |
 | **[Style Dictionary](./prompts/style_dictionary_guide.md)** | 跨平台设计令牌构建系统 | [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) | `npm i -g style-dictionary` | ⭐⭐⭐⭐⭐ |
+| **[MCP 官方服务器](./prompts/mcp_official_servers_guide.md)** | Model Context Protocol 官方服务器参考实现 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | `npx @modelcontextprotocol/server-<name>` | ⭐⭐⭐⭐⭐ |
 
 ---
 ## ⚡️ 维护指南
