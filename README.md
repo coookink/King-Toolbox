@@ -35,6 +35,7 @@
 | **[UI/UX设计智能库](./prompts/ui_ux_skill_guide.md)** | AI的设计大脑(含SwiftUI支持) | [modules/ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `npm i -g uipro-cli` | ⭐⭐⭐⭐⭐ |
 | **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | modules/superpowers | 需配置 PATH | ⭐⭐⭐⭐ |
 | **[21st.dev Magic MCP](./prompts/21st_magic_mcp_guide.md)** | Vibe Design神器，IDE内生成UI组件 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | `npx @21st-dev/cli@latest install cursor` | ⭐⭐⭐⭐⭐ |
+| **[OpenClaw 基金工具](./prompts/openclaw_fund_tools.md)** | 在OpenClaw中添加中国基金查询功能(AKShare) | [AKShare](https://github.com/akfamily/akshare) | 配置 TOOLS.md 使用 | ⭐⭐⭐⭐⭐ |
 
 ## 📦 5. Modules (第三方库)
 > 开发框架、组件库、SDK
@@ -52,7 +53,7 @@
 | **[OpenClaw AI 助理](./prompts/openclaw_guide.md)** | 多平台个人AI助理系统 | [modules/openclaw](https://github.com/openclaw/openclaw) | `npm i -g openclaw` | ⭐⭐⭐⭐ |
 | **[Plasmic 可视化构建器](./prompts/plasmic_guide.md)** | 开源可视化页面构建工具 | [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | `npm install @plasmicapp/loader-nextjs` | ⭐⭐⭐⭐ |
 | **[Style Dictionary](./prompts/style_dictionary_guide.md)** | 跨平台设计令牌构建系统 | [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) | `npm i -g style-dictionary` | ⭐⭐⭐⭐⭐ |
-| **[MCP 官方服务器](./prompts/mcp_official_servers_guide.md)** | Model Context Protocol 官方服务器参考实现 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | `npx @modelcontextprotocol/server-<name>` | ⭐⭐⭐⭐⭐ |
+| **[MCP 官方服务器生态](./prompts/mcp_servers_guide.md)** | MCP官方服务器 + 金融分析服务器(AlphaVantage/Alpaca) | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 配置 JSON 使用 | ⭐⭐⭐⭐⭐ |
 
 ---
 ## ⚡️ 维护指南

@@ -1,0 +1,58 @@
+{
+  "name": "obsidian-oss",
+  "version": "1.0.0",
+  "description": "Obsidian vault management with Alibaba Cloud OSS sync integration",
+  "author": "cooolink",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "notes",
+    "oss",
+    "s3",
+    "sync",
+    "alibaba-cloud",
+    "remotely-save"
+  ],
+  "homepage": "https://help.obsidian.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cooolink/obsidian-oss"
+  },
+  "bugs": {
+    "url": "https://github.com/cooolink/obsidian-oss-skill/issues"
+  },
+  "config": {
+    "vault": {
+      "path": "/Users/a/Library/Mobile Documents/iCloud~md~obsidian/Documents/cooolink/cooolink",
+      "icloud": true
+    },
+    "oss": {
+      "bucket": "obsidian-cooolink-sync",
+      "region": "cn-heyuan",
+      "endpoint": "https://oss-cn-heyuan.aliyuncs.com",
+      "s3_compatible": true
+    },
+    "sync": {
+      "plugin": "remotely-save",
+      "auto_sync": true,
+      "sync_on_startup": false
+    }
+  },
+  "requirements": {
+    "bins": ["obsidian-cli"],
+    "optional_bins": ["ossutil", "aws"],
+    "mcp_servers": ["alibaba-cloud-ops"]
+  },
+  "install": {
+    "macos": [
+      {
+        "command": "brew install yakitrak/yakitrak/obsidian-cli",
+        "description": "Install obsidian-cli for vault operations"
+      },
+      {
+        "command": "curl -o /usr/local/bin/ossutil https://gosspublic.alicdn.com/ossutil/1.7.19/ossutilmac64 && chmod +x /usr/local/bin/ossutil",
+        "description": "Install ossutil for OSS operations (optional)"
+      }
+    ]
+  }
+}
