@@ -36,6 +36,7 @@
 | **[Superpowers 脚本集](./prompts/superpowers_guide.md)** | 黑客的命令行生产力工具箱 | modules/superpowers | 需配置 PATH | ⭐⭐⭐⭐ |
 | **[21st.dev Magic MCP](./prompts/21st_magic_mcp_guide.md)** | Vibe Design神器，IDE内生成UI组件 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | `npx @21st-dev/cli@latest install cursor` | ⭐⭐⭐⭐⭐ |
 | **[OpenClaw 基金工具](./prompts/openclaw_fund_tools.md)** | 在OpenClaw中添加中国基金查询功能(AKShare) | [AKShare](https://github.com/akfamily/akshare) | 配置 TOOLS.md 使用 | ⭐⭐⭐⭐⭐ |
+| **[OpenClaw 理财Agent](./prompts/openclaw_wealth_agent.md)** | 飞书机器人+全方位金融管理+自动化监控 | [OpenClaw](https://github.com/openclaw/openclaw) | 配置 AGENTS.md 使用 | ⭐⭐⭐⭐⭐ |
 
 ## 📦 5. Modules (第三方库)
 > 开发框架、组件库、SDK
