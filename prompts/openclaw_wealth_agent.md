@@ -16,6 +16,91 @@
 | **Sequential Thinking** | 复杂财务分析推理 | 投资组合分析、风险评估 | 官方 MCP |
 | **Time** | 时区转换、交易日计算 | 全球市场交易时间 | 官方 MCP |
 
+### Sequential Thinking 详细配置
+
+**功能说明**：Sequential Thinking 是一个用于动态和反思性问题解决的 MCP 服务器。它提供一个结构化的思考过程工具，特别适合复杂的财务分析和投资决策。
+
+**安装**：
+```bash
+# 通过 npm 安装
+npm install -g @modelcontextprotocol/server-sequential-thinking
+
+# 或使用 npx
+npx -y @modelcontextprotocol/server-sequential-thinking
+```
+
+**OpenClaw 配置**（添加到 `~/.openclaw/openclaw.json`）：
+```json5
+{
+  mcpServers: {
+    "sequential-thinking": {
+      command: "npx",
+      args: ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+    }
+  }
+}
+```
+
+**在 TOOLS.md 中使用**：
+```markdown
+### sequential_thinking
+进行结构化思考分析
+```bash
+# 此工具由 MCP 服务器提供，无需手动命令
+# 在 AGENTS.md 中通过自然语言调用
+```
+```
+
+**使用场景示例**：
+
+在 AGENTS.md 中这样配置：
+```markdown
+### 复杂分析时使用 Sequential Thinking
+
+当用户需要进行以下分析时，使用 sequential_thinking 工具：
+
+1. **投资组合风险评估**
+   - 分析各类资产相关性
+   - 评估组合波动性和最大回撤
+   - 考虑不同市场情景的影响
+
+2. **投资决策分析**
+   - 买入/卖出决策的利弊权衡
+   - 多个投资标的的对比选择
+   - 市场时机判断
+
+3. **资产配置优化**
+   - 当前配置与目标配置的差距分析
+   - 再平衡策略制定
+   - 税务和费用影响评估
+
+4. **异常情况诊断**
+   - 基金异常波动的深层原因
+   - 连续亏损的原因分析
+   - 市场环境变化的影响
+```
+
+**实际对话示例**：
+
+用户问："我应该在现在卖出白酒基金吗？"
+
+Agent 会调用 sequential_thinking 进行：
+1. **思考步骤 1**：分析白酒基金近期表现和历史数据
+2. **思考步骤 2**：考虑宏观经济因素（消费复苏、政策影响）
+3. **思考步骤 3**：评估技术面指标（支撑位、阻力位）
+4. **思考步骤 4**：对比个人持仓成本与当前净值
+5. **思考步骤 5**：权衡卖出 vs 持有的利弊
+6. **思考步骤 6**：给出具体建议和风险提示
+
+**与其他工具的配合**：
+```markdown
+分析流程：
+1. 使用 fund_info 获取基金数据
+2. 使用 fund_history 获取历史走势
+3. 使用 sequential_thinking 进行深度分析
+4. 使用 save_report 保存分析结论
+```
+
 ### 2. 数据存储类
 
 | MCP 服务器 | 功能 | 理财场景 |
